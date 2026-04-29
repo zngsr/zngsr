@@ -80,12 +80,4 @@ Biyolojik verileri anlamlandırmak için kendi yazılım araçlarımı geliştir
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zngsr&layout=compact&theme=default&hide_border=true" alt="En Çok Kullanılan Diller" />
-</p>
-
-![Visitors](https://profile-counter.glitch.me/zngsr/count.svg?)
-
----
-
 Biologist by Degree, Developer by Design. [Zeng Sarı](https://www.zengsari.com)
